@@ -1,0 +1,7 @@
+.section-button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-bottom: 5ex;
+}
